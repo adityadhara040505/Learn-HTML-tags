@@ -1,5 +1,5 @@
 .a1:link, .a1:visited {
-        list-style:none;
+        
 	background-color: lightcyan;
 	color: rgb(0, 13, 255);
 	padding: 14px 25px;
@@ -13,7 +13,7 @@
   }background-color: grey;
 }
 .menu{
-	list-style-type: none;
+	list-style: none;
 }
 .menulist{
 	float:left;
