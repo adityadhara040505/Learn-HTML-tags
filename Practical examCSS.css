@@ -12,7 +12,7 @@
   }background-color: grey;
 }
 .menu{
-	list-style-type none;
+	list-style-type: none;
 }
 .menulist{
 	float:left;
