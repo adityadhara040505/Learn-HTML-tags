@@ -1,0 +1,21 @@
+.a1:link, .a1:visited {
+	background-color: lightcyan;
+	color: rgb(0, 13, 255);
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+  
+.a1:hover, .a1:active {
+	background-color: white;
+  }background-color: grey;
+}
+.menu{
+	list-style-type none;
+}
+.menulist{
+	float:left;
+	padding : 15px;
+	font-size : 20px;
+}
